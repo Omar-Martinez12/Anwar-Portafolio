@@ -177,9 +177,10 @@ html{
     font-weight: bold;
     border-radius: 5px;
 }
-/* salto de linea */
-.sobremi .fila .col ul li span.linea{
+/* salto de linea en estudios*/
+.sobremi ul li span.linea{
     display: block;
+    margin-top: 5px; /* opcional, para separar las líneas */
 }
 
 .sobremi .fila .col .contenedor-intereses{
