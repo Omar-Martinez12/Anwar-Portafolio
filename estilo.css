@@ -180,7 +180,6 @@ html{
 /* salto de linea en estudios*/
 .sobremi ul li span.linea{
     display: block;
-    margin-top: 15px; /* opcional, para separar las líneas */
 }
 
 .sobremi .fila .col .contenedor-intereses{
