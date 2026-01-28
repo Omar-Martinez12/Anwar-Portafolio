@@ -177,6 +177,11 @@ html{
     font-weight: bold;
     border-radius: 5px;
 }
+/* salto de linea */
+.sobremi .fila .col ul li span.linea{
+    display: block;
+}
+
 .sobremi .fila .col .contenedor-intereses{
     display: flex;
     flex-wrap: wrap;
